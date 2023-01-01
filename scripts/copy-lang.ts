@@ -10,7 +10,15 @@ import ConfigParser from 'configparser';
 
 const K2_LANG_FILE = 'Krastorio2.cfg';
 const LANG_FILE = 'lang.cfg';
-const LANG_KEYS = [];
+const LANG_KEYS = [
+  'fuel-burning',
+  'kr-void',
+  'kr-burn',
+  'kr-burn-with-residue',
+  'kr-fluid-burner',
+  'kr-fluid-burner-description',
+  'kr-fluid-excess-handling',
+];
 
 async function main(): Promise<void> {
   // check if the source folder was passed as an argument
