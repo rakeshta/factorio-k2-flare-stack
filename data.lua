@@ -15,5 +15,6 @@ flare_stack = {};
 
 require("prototypes.pipe-patch.index")
 require("prototypes.flare-stack.index")
-require("prototypes.category")
+require("prototypes.void.index")
+require("prototypes.categories")
 require("prototypes.technology")
