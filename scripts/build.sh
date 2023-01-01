@@ -25,9 +25,12 @@ fi
 
 # Copy files to zip dir
 cp -r \
+  ./compatibility \
   ./graphics \
+  ./lib \
   ./locale \
   ./prototypes \
+  ./sounds \
   ./*.lua \
   ./info.json \
   ./LICENSE \
