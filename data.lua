@@ -21,3 +21,5 @@ require("prototypes.flare-stack.index")
 require("prototypes.void.index")
 require("prototypes.categories")
 require("prototypes.technology")
+
+require("compatibility.industrial-revolution.data")
