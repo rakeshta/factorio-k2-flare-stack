@@ -17,9 +17,10 @@
     "k2_flare_stack_path",
     "flare_stack",
     "k2_flare_stack_public_lib",
-    "kr_pipe_path",
     "__DebugAdapter",
-    "__Profiler"
+    "__Profiler",
+    "pipe_patch",
+    "k2_steel_pipes_compat"
   ],
   "Lua.runtime.builtin": {
     "io": "disable",

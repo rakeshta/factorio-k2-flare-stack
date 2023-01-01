@@ -16,7 +16,7 @@ local empty_sprite = {
   shift = { 0, 0 },
 }
 
-kr_pipe_path = {
+pipe_patch = {
   north = empty_sprite,
   east = empty_sprite,
   south = {
