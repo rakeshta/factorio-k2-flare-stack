@@ -13,3 +13,4 @@ Burn away excess fluids at the cost of increased pollution. The flare stack can 
 - [K2 Fluid Storage](https://mods.factorio.com/mod/k2-fluid-storage)
 - [K2 Steel Pipes](https://mods.factorio.com/mod/k2-steel-pipes)
 - [K2 Reinforced Plates](https://mods.factorio.com/mod/k2-reinforced-plates)
+- [K2 Railgun Turret](https://mods.factorio.com/mod/k2-railgun-turret)
